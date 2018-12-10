@@ -2,6 +2,7 @@
     "name": "qiyu/cms",
     "description": "test-test",
     "license": "MIT",
+	"version":"1.0",
     "authors": [
         {
             "name": "Liqi Feng",
@@ -12,9 +13,7 @@
     "require": {
 		"php": ">=5.4"
 	},
-	"require-dev": {
-		"php": ">=5.4"
-	},
+	
 	"autoload": {
 		"psr-4": {
 			"Flower\\Rose\\": "src/Flower/Rose",
