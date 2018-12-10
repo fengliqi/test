@@ -1,0 +1,21 @@
+{
+    "name": "qiyu/cms",
+    "description": "test-test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liqi Feng",
+            "email": "liqi.f@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Flower\\Rose\\": "src/Flower/Rose",
+			"Flower\\Lily\\": "src/Flower/Lily"
+		}
+	}
+}
